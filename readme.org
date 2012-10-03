@@ -1,1 +1,2 @@
 * ematrix
+A game for emacs

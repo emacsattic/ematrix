@@ -1,9 +1,11 @@
-;;; ematrix.el
+;;; ematrix.el --- A game for emacs
 
 ;; MIT License, Copyright (C) 2011 liuhui
 
 ;;; Commentary:
-
+;;
+;; Inspired by CMatrix
+;;
 ;; Installation:
 ;;
 ;; Put this file in your `load-path' and compile it, then add the
